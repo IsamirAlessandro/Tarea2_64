@@ -1,0 +1,19 @@
+
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" type="text/css" href="index.css">
+
+<head><meta charset="utf-8">
+		<title>Isamir Alessandro</title>
+</head>
+
+
+<body>
+	<h1 align="center"> Bienvenido(a) a mi pagina web </h1>
+	<h2> Hipervinculo</h2>
+	<p><a href="http://hojadevida.com">Este es un enlace absoluto.</a></p>
+	<p><a href="curriculum.html">Este es un enlace relativo.</a></p>	
+</body>
+
+
+</html>

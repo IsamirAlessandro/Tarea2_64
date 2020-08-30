@@ -1,0 +1,20 @@
+
+<!DOCTYPE html>
+<html>
+
+
+<head>
+		<meta charset="UTF-8"/>
+		<title>Curriculum</title>
+</head>
+
+
+<body>
+	<h1 align="center" >Personaje Favorito</h1>	
+	<img src="imagenes/hulk.jpg" alt="Hulk Destruye" width="400">
+
+	<h5><a href="index.html">Volver a la pagina de inicio</a></h5>		
+</body>
+
+
+</html>

@@ -1,0 +1,47 @@
+body{
+	background-image: url(imagenes/fondo1.png);
+	padding: 0px;
+}
+
+p{
+	font-size:24px;
+	text-shadow: 2px 2px #692121;
+	color: white;		
+	font-family: arial;
+	text-shadow: 2px 2px #FE0404;
+}
+a{
+	color: #24FBF9;
+	text-shadow: 2px 2px #692121;
+}
+h1{
+	font-size:68px;
+	background-image: url(imagenes/fondo6.png);
+	padding: 0px;
+	color: #FEF8B9;
+	font-family: arial;
+	text-shadow: 2px 2px #FE0404;
+	
+}
+img{
+	background-color: #431E72;
+	box-shadow:8px 8px #000000 ;
+	padding: 10px 10px;
+}
+h2{
+	font-size:28px;
+	background:#431E72;
+	color:#E4F235;
+	padding: 10px;
+	font-family: arial;
+	text-shadow: 4px 4px #000000;
+
+}
+h3{
+	font-size:24px;
+	background:#431E72;
+	color:#E4F235;
+	padding: 10px;
+	font-family: arial;
+	text-shadow: 4px 4px #000000;
+}

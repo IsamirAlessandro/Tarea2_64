@@ -1,0 +1,20 @@
+
+<!DOCTYPE html>
+<html>
+
+
+<head>
+		<meta charset="UTF-8"/>
+		<title>Crea tu propia pagina web</title>
+</head>
+
+
+<body>
+	<h1 align="center" >Tutorial</h1>	
+	
+
+	<h5><a href="index.html">Volver a la pagina de inicio</a></h5>		
+</body>
+
+
+</html>
